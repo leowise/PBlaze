@@ -1,0 +1,40 @@
+﻿
+Add these features:
+
+	1. When selecting a sub on left pane, move the right pane to the bring the sub into focus and highlight the sub
+	2. Sub sorting by sub name or line number
+	3. 
+
+
+Sept. 24. 2012 - Debugging: wrong sub-routine line number (line number is off by one): Found that i am increasing the 
+				 key by one in the GetCodeItems sub.
+				 Fix: Change the key + 1 statement to key.
+				 Result: Works, line numbers match text.
+
+				Debugging: selection on sub-routine list, file content scrolls to selected sub.
+				Fix: Added code to the dataGridView1_SelectionChanged(object sender, EventArgs e) method
+
+				Mod: Reduce the amount of text shown in the sub-routine view.
+				Fix: Added code to: strSubrutineItems.Add(lineNumber, subrName[0].Substring(0, m1.Index + 1));
+				in method GetCodeItems method to chop the string as needed.
+
+				Debugging: Found issue when opening a different source file, app crashed with collection index out of bounds,
+				Fix: Added code to test if the source was changing or had changed, then condition the update to the UI based on 
+				a flag. 
+				Result. Works, code is not optimal!!!
+
+				Code Cleanup: Removed obsolete methods, cleaned code. More needs to be done.
+
+				Sept. 25, 2012 - 
+				Debugging: When opening a file which had been edited and saved, got "Unsafe cross-thread call error" started to 
+				code to use the background worker method to make safe calls, but the issue seems to have gone away after the above 
+				fix! Will comeback if issue resurfaces, or just to test methodology.
+
+				Dec. 04, 2012 - Corrected issue with display re-sizing.
+
+				Dec. 6, 2012 - Issue: When source file changes, the app opens two dialogs and user has to click twice, will 
+								remove code, and just update the views. 
+
+
+
+				Feature add: 

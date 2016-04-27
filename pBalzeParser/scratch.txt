@@ -1,0 +1,40 @@
+﻿Binary File Reader Pattern:
+
+            Check if the file exist, then...
+            try
+            {
+                // Find and open the psn file
+                FileStream psnFRead = new FileStream(FILE_NAME, FileMode.Open);
+
+                // Get and display some file info
+
+                Console.WriteLine("File found. Full name: " + " " + psnFRead.Name + " Length: " + psnFRead.Length.ToString());
+
+
+                // Use file
+
+                // Read the file into a byte array
+                byte[] bytes = new byte[psnFRead.Length];
+                int numBytesToRead = (int)psnFRead.Length;
+                int numBytesRead = 0;
+                
+                while (numBytesToRead > 0)
+                {
+                    // Read may return anything from 0 to numBytesToRead.
+                    int n = psnFRead.Read(bytes, numBytesRead, numBytesToRead);
+
+                    if (n == 0)
+                    {
+                        break;
+                    }
+
+                    numBytesRead += n;
+                    numBytesToRead -= n;
+
+
+                }
+                            catch (Exception e)
+            {
+                Console.WriteLine("Error reading uclock.psn file" + e.Message);
+                //throw;
+            }

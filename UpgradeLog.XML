@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="pBalzePSMParser">
+</Property><Property Name="Solution File" Value="C:\Users\Administrator\Documents\Visual Studio 2010\Projects\pBalzePSMParser\pBalzePSMParser.sln">
+</Property><Property Name="User Options File" Value="C:\Users\Administrator\Documents\Visual Studio 2010\Projects\pBalzePSMParser\pBalzePSMParser.suo">
+</Property><Property Name="Date" Value="Sunday, October 30, 2011">
+</Property><Property Name="Time" Value="12:16 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="pBalzePSMParser.sln" Description="File successfully backed up as C:\Users\Administrator\Documents\Visual Studio 2010\Projects\pBalzePSMParser\Backup\pBalzePSMParser.sln">
+</Event><Event ErrorLevel="0" Project="" Source="pBalzePSMParser.suo" Description="File successfully backed up as C:\Users\Administrator\Documents\Visual Studio 2010\Projects\pBalzePSMParser\Backup\pBalzePSMParser.suo">
+</Event><Event ErrorLevel="0" Project="pBalzeParser" Source="pBalzeParser\pBalzeParser.csproj" Description="Project file successfully backed up as C:\Users\Administrator\Documents\Visual Studio 2010\Projects\pBalzePSMParser\Backup\pBalzeParser\pBalzeParser.csproj">
+</Event><Event ErrorLevel="0" Project="pBalzeParser" Source="pBalzeParser\Program.cs" Description="File successfully backed up as C:\Users\Administrator\Documents\Visual Studio 2010\Projects\pBalzePSMParser\Backup\pBalzeParser\Program.cs">
+</Event><Event ErrorLevel="0" Project="pBalzeParser" Source="pBalzeParser\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\Administrator\Documents\Visual Studio 2010\Projects\pBalzePSMParser\Backup\pBalzeParser\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="pBalzeParser" Source="pBalzeParser\scratch.txt" Description="File successfully backed up as C:\Users\Administrator\Documents\Visual Studio 2010\Projects\pBalzePSMParser\Backup\pBalzeParser\scratch.txt">
+</Event><Event ErrorLevel="0" Project="pBalzeParser" Source="pBalzeParser\pBalzeParser.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="pBalzeParser" Source="pBalzeParser\pBalzeParser.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="pBlazeIDELists" Source="pBlazeIDELists\pBlazeIDELists.csproj" Description="Project file successfully backed up as C:\Users\Administrator\Documents\Visual Studio 2010\Projects\pBalzePSMParser\Backup\pBlazeIDELists\pBlazeIDELists.csproj">
+</Event><Event ErrorLevel="0" Project="pBlazeIDELists" Source="pBlazeIDELists\Form1.cs" Description="File successfully backed up as C:\Users\Administrator\Documents\Visual Studio 2010\Projects\pBalzePSMParser\Backup\pBlazeIDELists\Form1.cs">
+</Event><Event ErrorLevel="0" Project="pBlazeIDELists" Source="pBlazeIDELists\Form1.Designer.cs" Description="File successfully backed up as C:\Users\Administrator\Documents\Visual Studio 2010\Projects\pBalzePSMParser\Backup\pBlazeIDELists\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="pBlazeIDELists" Source="pBlazeIDELists\Program.cs" Description="File successfully backed up as C:\Users\Administrator\Documents\Visual Studio 2010\Projects\pBalzePSMParser\Backup\pBlazeIDELists\Program.cs">
+</Event><Event ErrorLevel="0" Project="pBlazeIDELists" Source="pBlazeIDELists\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\Administrator\Documents\Visual Studio 2010\Projects\pBalzePSMParser\Backup\pBlazeIDELists\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="pBlazeIDELists" Source="pBlazeIDELists\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Users\Administrator\Documents\Visual Studio 2010\Projects\pBalzePSMParser\Backup\pBlazeIDELists\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="pBlazeIDELists" Source="pBlazeIDELists\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Users\Administrator\Documents\Visual Studio 2010\Projects\pBalzePSMParser\Backup\pBlazeIDELists\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="pBlazeIDELists" Source="pBlazeIDELists\Settings.cs" Description="File successfully backed up as C:\Users\Administrator\Documents\Visual Studio 2010\Projects\pBalzePSMParser\Backup\pBlazeIDELists\Settings.cs">
+</Event><Event ErrorLevel="0" Project="pBlazeIDELists" Source="pBlazeIDELists\app.config" Description="File successfully backed up as C:\Users\Administrator\Documents\Visual Studio 2010\Projects\pBalzePSMParser\Backup\pBlazeIDELists\app.config">
+</Event><Event ErrorLevel="0" Project="pBlazeIDELists" Source="pBlazeIDELists\Properties\DataSources\Form1.datasource" Description="File successfully backed up as C:\Users\Administrator\Documents\Visual Studio 2010\Projects\pBalzePSMParser\Backup\pBlazeIDELists\Properties\DataSources\Form1.datasource">
+</Event><Event ErrorLevel="0" Project="pBlazeIDELists" Source="pBlazeIDELists\Properties\Settings.settings" Description="File successfully backed up as C:\Users\Administrator\Documents\Visual Studio 2010\Projects\pBalzePSMParser\Backup\pBlazeIDELists\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="pBlazeIDELists" Source="pBlazeIDELists\Form1.resx" Description="File successfully backed up as C:\Users\Administrator\Documents\Visual Studio 2010\Projects\pBalzePSMParser\Backup\pBlazeIDELists\Form1.resx">
+</Event><Event ErrorLevel="0" Project="pBlazeIDELists" Source="pBlazeIDELists\Properties\Resources.resx" Description="File successfully backed up as C:\Users\Administrator\Documents\Visual Studio 2010\Projects\pBalzePSMParser\Backup\pBlazeIDELists\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="pBlazeIDELists" Source="pBlazeIDELists\pBlazeIDELists.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="pBlazeIDELists" Source="pBlazeIDELists\pBlazeIDELists.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="pBalzePSMParser.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="pBalzePSMParser.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="pBalzeParser" Source="pBalzeParser\pBalzeParser.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="pBlazeIDELists" Source="pBlazeIDELists\pBlazeIDELists.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

@@ -1,0 +1,12 @@
+; OM Mod: ******************* Regex tests! ***********************
+; Blank lines are ok, but not recommended
+; Leading spaces are ok for labels and opcodes
+; 1LabelName       DSIN $30                ;number in lable names are not allowed
+; port@#$%^&*()!-+12     DSIN $30           ; labels with embedded chars are not allowed
+; port1                   DSIN $30           ; labels with embedded numbers are ok
+;   myrutine:              LOAD s0, $00       ; leading spaces on subrutines are allowed
+myrutine:LOAD s0,$00                          ;malformed syntax allowed!
+;myrutine2:LOADs0,$00                          ; not this bad!
+myrutine3:LOAD s0,           $00               ; this is also allowed
+;
+; ****************************************************************
